@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to data analysis and visualization.
 - 💬 Ask me about data analysis, visualization, Python, R, SQL, or anything related to data science!
 - 📫 How to reach me: prajushanmi@gmail.com
+- 🔭 Here's my portfolio ![Portfolio](https://pradhakshanad.github.io/portfolio/)
 - 😄 Pronouns: she/her
 
 <!--
