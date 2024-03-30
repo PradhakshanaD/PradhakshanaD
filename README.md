@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning Data Science, Statistical Data Mining (R), Bayesian Networks, Machine Learning, Python, Tableau and DBMS.
 - 👯 I’m looking to collaborate on projects related to data analysis and visualization.
 - 💬 Ask me about data analysis, visualization, Python, R, SQL, or anything related to data science!
-- 📫 How to reach me: prajushanmi@gmail.com
+- 📫 Email me at: prajushanmi@gmail.com
 - 🔭 Here's my portfolio [Visit Portfolio](https://pradhakshanad.github.io/portfolio/)
+- 📫 Connect with me: [![LinkedIn](LI-In-Bug.png)](www.linkedin.com/in/pradhakshanaduraiswamy)
 - 😄 Pronouns: she/her
 
 <!--
