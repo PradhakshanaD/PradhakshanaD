@@ -7,9 +7,11 @@
 - 📫 Email me at: prajushanmi@gmail.com
 - 🔭 Here's my portfolio [Visit Portfolio](https://pradhakshanad.github.io/portfolio/)
 - 📫 Connect with me:
+  
   <a href="www.linkedin.com/in/pradhakshanaduraiswamy">
   <img src="LI-In-Bug.png" alt="LinkedIn" width="20" height="20">
 </a>
+
 - 😄 Pronouns: she/her
 
 <!--
