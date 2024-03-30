@@ -9,7 +9,7 @@
 - 📫 Connect with me:
   
   <a href="https://www.linkedin.com/in/pradhakshanaduraiswamy/">
-  <img src="LI-In-Bug.png" alt="LinkedIn" width="20" height="20">
+  <img src="LI-In-Bug.png" alt="LinkedIn" width="25" height="20">
 </a>
 
 - 😄 Pronouns: she/her
