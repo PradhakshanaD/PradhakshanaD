@@ -12,5 +12,4 @@
   <img src="LI-In-Bug.png" alt="LinkedIn" width="25" height="20">
 </a>
 
-- 😄 Pronouns: she/her
 
