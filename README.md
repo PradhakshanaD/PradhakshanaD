@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pradhakshana Duraiswamy
 
 - 🔭 I’m currently a Master's student at the University at Buffalo. I'm actively searching for job opportunities that align with my skills and interests.
-- 🌱 I’m currently learning Data Science, Statistical Data Mining (R), Bayesian Networks, Machine Learning, Python, Tableau and DBMS.
+- 🌱 I'm proficient in Data Analysis, Tableau, R, SQL and Python, and now I'm expanding my expertise in Statistical Data Mining, Bayesian Networks, Machine Learning.
 - 👯 I’m looking to collaborate on projects related to data analysis and visualization.
 - 💬 Ask me about data analysis, visualization, Python, R, SQL, or anything related to data science!
 - 📫 Email me at: prajushanmi@gmail.com
