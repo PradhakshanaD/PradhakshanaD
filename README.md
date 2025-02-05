@@ -4,7 +4,7 @@
 - 🌱 I'm proficient in Data Analysis, Tableau, R, SQL and Python, and now I'm expanding my expertise in Statistical Data Mining, Bayesian Networks, Machine Learning.
 - 👯 I’m looking to collaborate on projects related to data analysis and visualization.
 - 💬 Ask me about data analysis, visualization, Python, R, SQL, or anything related to data science!
-- 📫 Email me at: prajushanmi@gmail.com
+- 📫 Email me at: pradhakshanad@gmail.com
 - 🔭 Here's my portfolio [Visit Portfolio](https://pradhakshanad.github.io/portfolio/)
 - 📫 Connect with me:
   
